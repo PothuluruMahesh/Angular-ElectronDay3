@@ -1,0 +1,12 @@
+{
+  "name": "day3",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build":"electron-packager . Myapp"
+  },
+  "author": "mahesh",
+  "license": "ISC"
+}
